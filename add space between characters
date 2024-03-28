@@ -1,0 +1,7 @@
+text= 'krishna is studing in view'
+i=0
+while i<len(text):
+    letter = text[i]
+    print(letter, end=' ')
+    i+=1
+   
