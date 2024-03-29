@@ -1,0 +1,2 @@
+str="india"
+print(str[::-1])
