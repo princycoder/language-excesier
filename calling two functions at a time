@@ -1,0 +1,8 @@
+ef example1():
+    for i in range(4):
+        print("krishna",end=' ')
+def example2():
+    for i in range(4):
+        print(i,end=' ')
+example2()d
+example1()
