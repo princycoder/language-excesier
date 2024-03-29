@@ -1,0 +1,4 @@
+str1='ANCDEF'
+str2='eat'
+for letter in str1:
+    print(letter+str2,end=' ')
